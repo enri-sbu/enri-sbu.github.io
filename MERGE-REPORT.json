@@ -1,0 +1,51 @@
+{
+  "base": "ENRI-Website-v19",
+  "compared_against": "ENRI-Website-v16",
+  "merged_version": "20",
+  "v16_files": 36,
+  "v19_files": 197,
+  "v16_unique_filenames_not_in_v19": [],
+  "repairs": [
+    "Replaced undecodable v19 assets/photos/power-substation.webp with valid v16 copy"
+  ],
+  "restored_visuals": [
+    "Home-page branded loading screen",
+    "Home hero shade layer",
+    "Home hero landscape treatment using enri-building-hero.png"
+  ],
+  "content_resolution": [
+    "v19 retained as canonical when shared visible content differed because it contains the expanded dedicated-page implementation",
+    "Conflicting older v16 contact numbers were not duplicated over the newer v19 contact block"
+  ],
+  "duplicate_content_aliases_redirected": {
+    "fa/w/-9-10/index.html": "news-ev-sustainable.html",
+    "goals/index.html": "goals.html",
+    "archive-ann/index.html": "archive-ann.html",
+    "article/1339009/index.html": "archive-ann.html",
+    "fa/w/-8/index.html": "news-education.html",
+    "archive/index.html": "archive.html",
+    "article/1338809/index.html": "archive.html",
+    "history/index.html": "history.html",
+    "fa/w/-4/index.html": "news-economics.html",
+    "boss/index.html": "boss.html",
+    "groh_pajh/index.html": "research-groups.html",
+    "fa/w/-5/index.html": "news-transport.html",
+    "article/1327599/index.html": "resources.html",
+    "fa/w/-2/index.html": "news-dispatch.html",
+    "fa/w/-/index.html": "news-ev-germany.html",
+    "article/1893143/index.html": "institute-contact.html",
+    "fa/w/-6/index.html": "news-workshop.html",
+    "پژوهشی/index.html": "research.html",
+    "web/sbu/newsletter/index.html": "newsletter.html",
+    "article/1327615/index.html": "quick-links.html",
+    "article/1335541/index.html": "archive-event.html",
+    "contact_college/index.html": "contact.html",
+    "chart/index.html": "chart.html",
+    "about/index.html": "about.html",
+    "c/portal/login/index.html": "login.html"
+  },
+  "notes": [
+    "The v16 collaboration banner was intentionally not duplicated because its text repeats the full collaboration section already present in v19.",
+    "All v16 filenames already existed in v19; no parallel copies were added."
+  ]
+}
