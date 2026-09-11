@@ -1,5 +1,0 @@
-{
-  "test_type": "Mock HTTP responses; no live university requests",
-  "checks": 11,
-  "passed": true
-}
