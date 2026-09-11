@@ -1,6 +1,0 @@
-{
-  "version": 19,
-  "test_type": "Node VM with a minimal DOM fixture; native browser rendering not tested",
-  "checks": 12,
-  "passed": true
-}
