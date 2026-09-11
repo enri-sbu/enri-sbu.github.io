@@ -1,0 +1,5 @@
+v25
+- Persian homepage hero content is now explicitly right-aligned.
+- Heading and description span the overlay width and align to the right.
+- Category label and action buttons are anchored to the right.
+- English layout remains left-aligned.

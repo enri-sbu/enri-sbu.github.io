@@ -1,0 +1,5 @@
+v24
+- Home hero overlay on Persian homepage moved from left to right side of the image.
+- Dark gradient overlay flipped to support right-side Persian text legibility.
+- English homepage retains left-aligned hero text.
+- Updated CSS cache query to v24 on index.html and en.html.
