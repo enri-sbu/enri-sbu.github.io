@@ -1,5 +1,0 @@
-{
-  "test_type": "Node VM with a minimal DOM fixture; no rendering or visual checks",
-  "checks": 14,
-  "passed": true
-}
