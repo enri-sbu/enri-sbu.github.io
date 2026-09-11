@@ -1,0 +1,21 @@
+{
+  "version": 20,
+  "validation": "Static HTML/reference/image validation plus Node JavaScript syntax checks. Chromium browser execution was attempted but blocked by the sandbox administrator policy, so no live browser rendering claim is made.",
+  "html_files": 144,
+  "local_references_checked": 8962,
+  "broken_local_references": [],
+  "duplicate_canonical_visible_content_groups": [],
+  "local_raster_decode_errors": [],
+  "external_urls_recorded_not_live_verified": 64,
+  "javascript_syntax_checked": [
+    "assets/app.js",
+    "assets/navigation.js",
+    "assets/source.js",
+    "assets/content.js"
+  ],
+  "legacy_duplicate_content_aliases_as_redirects": 25,
+  "passed": true,
+  "browser_rendering_tested": false,
+  "browser_test_block_reason": "ERR_BLOCKED_BY_ADMINISTRATOR for localhost and file:// in the sandbox",
+  "complete_original_domain_capture": false
+}

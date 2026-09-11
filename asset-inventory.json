@@ -1,0 +1,191 @@
+[
+  {
+    "path": "assets/enri-building-hero.png",
+    "bytes": 997977,
+    "sha256": "223fef44cf6a29b837278cfcf0813ff273191bee968de5d786e13377354bad25",
+    "source": "user_attachment",
+    "merge_source": "retained from v19 (also present in v16 where applicable)"
+  },
+  {
+    "path": "assets/enri-building.png",
+    "bytes": 1349047,
+    "sha256": "2ac6e658e9f7fe191aebbae716109ae611d1d409e39767285475d854b08b00c1",
+    "source": "user_attachment",
+    "merge_source": "retained from v19 (also present in v16 where applicable)"
+  },
+  {
+    "path": "assets/enri-logo.png",
+    "bytes": 447860,
+    "sha256": "167ca6dc7240e9b50f762248b007de24bd9e9f27784f7cb8d4ba3debd8befa97",
+    "source": "user_attachment",
+    "merge_source": "retained from v19 (also present in v16 where applicable)"
+  },
+  {
+    "path": "assets/fonts/noto-naskh-arabic-variable.woff2",
+    "bytes": 94032,
+    "sha256": "2a10d33e1f7129ab2b6ec76666e82ac5b509fbcfa7b4a3a1289bff42d2d64cd7",
+    "source": "user_attachment",
+    "merge_source": "retained from v19 (also present in v16 where applicable)"
+  },
+  {
+    "path": "assets/fonts/vazirmatn-arabic-variable.woff2",
+    "bytes": 46308,
+    "sha256": "84a382e46c30fb4f73d0e3800c16d0af15888e2731e57fa5f93e2c29a2c6a957",
+    "source": "user_attachment",
+    "merge_source": "retained from v19 (also present in v16 where applicable)"
+  },
+  {
+    "path": "assets/photos/electricity-market.webp",
+    "bytes": 104620,
+    "sha256": "2ccbeb107ba62e2b05b51511a72aa02185521b8320cc3693b92f4510335b2c4b",
+    "source": "user_attachment",
+    "merge_source": "retained from v19 (also present in v16 where applicable)"
+  },
+  {
+    "path": "assets/photos/electricity-workshop.webp",
+    "bytes": 87002,
+    "sha256": "74d5740b686f6c59c8e5348f3a8e29b4bf5df480529ed5e1308ba65788f88b13",
+    "source": "user_attachment",
+    "merge_source": "retained from v19 (also present in v16 where applicable)"
+  },
+  {
+    "path": "assets/photos/grid-protection.webp",
+    "bytes": 81454,
+    "sha256": "f6bdf9c8f45a2f85dffc2c82864ff78ccfa49907384f474a57015686c65afd46",
+    "source": "user_attachment",
+    "merge_source": "retained from v19 (also present in v16 where applicable)"
+  },
+  {
+    "path": "assets/photos/industry-collaboration.webp",
+    "bytes": 35162,
+    "sha256": "7a217c8469f67583838d9462f83cdf283baea615588d4c72d98efab4352bd9eb",
+    "source": "user_attachment",
+    "merge_source": "retained from v19 (also present in v16 where applicable)"
+  },
+  {
+    "path": "assets/photos/line-inspection.webp",
+    "bytes": 35320,
+    "sha256": "c6ff28bd1fb1821d2a13a32c80c9cb5b983abaf16a3911fbf9471e907efb3ab2",
+    "source": "user_attachment",
+    "merge_source": "retained from v19 (also present in v16 where applicable)"
+  },
+  {
+    "path": "assets/photos/phasor-monitoring.webp",
+    "bytes": 60314,
+    "sha256": "4e5b0627bec5f7281b313cead7b191b442f513eb3d9f615c35cd5d13a29fe3b5",
+    "source": "user_attachment",
+    "merge_source": "retained from v19 (also present in v16 where applicable)"
+  },
+  {
+    "path": "assets/photos/power-substation.webp",
+    "bytes": 273286,
+    "sha256": "f3c58345290d3daa9f2753d3dfe8760caefdf9abc22bafc7c6f0d25a23d46e68",
+    "source": "user_attachment",
+    "merge_source": "valid v16 copy replaced undecodable v19 copy"
+  },
+  {
+    "path": "assets/photos/renewable-energy.webp",
+    "bytes": 261894,
+    "sha256": "9f73b2409a4bf8eceea447dc50ba62a88f690f76554c412976426a2dcb4a25a3",
+    "source": "user_attachment",
+    "merge_source": "retained from v19 (also present in v16 where applicable)"
+  },
+  {
+    "path": "assets/photos/research-lab.webp",
+    "bytes": 143618,
+    "sha256": "e6e312edabfa4bfd9a99e29bc9ebae6537a882b1074d976ba740dbe9b1d10ec1",
+    "source": "user_attachment",
+    "merge_source": "retained from v19 (also present in v16 where applicable)"
+  },
+  {
+    "path": "assets/photos/scientific-publication.webp",
+    "bytes": 150386,
+    "sha256": "5f950affbdfba2d312a840504302330b235013c85b1b9af79c7732cdde98b5c9",
+    "source": "user_attachment",
+    "merge_source": "retained from v19 (also present in v16 where applicable)"
+  },
+  {
+    "path": "assets/photos/smart-city.webp",
+    "bytes": 205496,
+    "sha256": "9db037c9af815d54a97bbfdd2d4bf69adfc468c039b8c29efea6df0570d188cd",
+    "source": "user_attachment",
+    "merge_source": "retained from v19 (also present in v16 where applicable)"
+  },
+  {
+    "path": "assets/photos/smart-grid-control.webp",
+    "bytes": 75950,
+    "sha256": "ce1946fcf44ffefc827df48954d9112e83a9ae4a1098acc8bf4126d1f6026639",
+    "source": "user_attachment",
+    "merge_source": "retained from v19 (also present in v16 where applicable)"
+  },
+  {
+    "path": "assets/photos/solar-substation.webp",
+    "bytes": 142540,
+    "sha256": "f362ce4b6814bf170a6f6da968317b4996801c3373a8f48d5072c42890671eb3",
+    "source": "user_attachment",
+    "merge_source": "retained from v19 (also present in v16 where applicable)"
+  },
+  {
+    "path": "assets/photos/specialist-training.webp",
+    "bytes": 77434,
+    "sha256": "82ccca4f1e16f8d904c8fb564e66691a2a4a82d0b1455b9b4cf28b2a6bed89da",
+    "source": "user_attachment",
+    "merge_source": "retained from v19 (also present in v16 where applicable)"
+  },
+  {
+    "path": "assets/photos/system-operation.webp",
+    "bytes": 42258,
+    "sha256": "16d67b4c2f04b018c20e875c20be21646ef92b58b5c6bd09b26e84bd4c0f0943",
+    "source": "user_attachment",
+    "merge_source": "retained from v19 (also present in v16 where applicable)"
+  },
+  {
+    "path": "assets/photos/transmission-lines.webp",
+    "bytes": 147176,
+    "sha256": "67f93b915965759b5111d0a57e92ebf56c01088b6f95de6c09a618d020bfb740",
+    "source": "user_attachment",
+    "merge_source": "retained from v19 (also present in v16 where applicable)"
+  },
+  {
+    "path": "assets/photos/turbine-generator.webp",
+    "bytes": 177608,
+    "sha256": "05d0905f01c5a0efed3474b4ae69a2eff505b63310bc13b28c46626b6dd21ee5",
+    "source": "user_attachment",
+    "merge_source": "retained from v19 (also present in v16 where applicable)"
+  },
+  {
+    "path": "assets/photos/wind-maintenance.webp",
+    "bytes": 46102,
+    "sha256": "e38284fd20e0064ee8575bc9e0d536c2dc81dcb1c3ca76bcc8a5a017eecfdfdb",
+    "source": "user_attachment",
+    "merge_source": "retained from v19 (also present in v16 where applicable)"
+  },
+  {
+    "path": "assets/sbu-logo.svg",
+    "bytes": 7856,
+    "sha256": "cd054a27552d829bbe6551bafd9375930eaaf4e3eefb9e4921ee1ff0c3a2b37f",
+    "source": "user_attachment",
+    "merge_source": "retained from v19 (also present in v16 where applicable)"
+  },
+  {
+    "path": "assets/institute/director-ameli.png",
+    "bytes": 440268,
+    "sha256": "eb46a0cc49ae521e84e4f02ca9efc70e2bc56f484570b6b65dc2b2ddddb35b7d",
+    "source": "user_docx",
+    "merge_source": "retained from v19 (also present in v16 where applicable)"
+  },
+  {
+    "path": "assets/institute/history-library.jpeg",
+    "bytes": 96393,
+    "sha256": "79df1c118b77f4d8a568802261c053f7dcb7a5ddbf1612876ae7a7090ace85e4",
+    "source": "user_docx",
+    "merge_source": "retained from v19 (also present in v16 where applicable)"
+  },
+  {
+    "path": "assets/institute/institute-structure.jpeg",
+    "bytes": 74244,
+    "sha256": "9c8ebaff2ed82b07a4ad7567dee933abe1b3bf394eae90da0d2a032786716f93",
+    "source": "user_docx",
+    "merge_source": "retained from v19 (also present in v16 where applicable)"
+  }
+]

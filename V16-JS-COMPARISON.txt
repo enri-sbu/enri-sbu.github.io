@@ -1,0 +1,23 @@
+V16 JavaScript comparison and merge notes
+=========================================
+
+Compared:
+- V-16.1/ENRI-Website-v16/assets/site.js
+- ENRI-Website-merged-v21/assets/site.js
+- ENRI-Website-merged-v21/assets/app.js and companion scripts
+
+Result:
+1. The V16 assets/site.js and the site.js already present in merged are byte-for-byte identical.
+   SHA-256: df389227a3a6e58d08527b1c538cbca66e59fdf126fa6e69e15896ac10946573
+2. Merged pages do not load assets/site.js. They load assets/content.js, assets/app.js,
+   assets/source.js and assets/navigation.js instead.
+3. assets/app.js already contains the V16 loader/theme/date-time/search/drawer/filter/FAQ/
+   popular-section/sticky-menu/scroll-progress/back-to-top behaviors in the newer merged architecture.
+4. Loading V16 site.js in parallel with app.js would bind several handlers twice. Therefore the old
+   file was not blindly added as a second runtime script.
+5. The missing V16-style clickable card/panel behavior was restored inside assets/app.js through
+   [data-detail-link]. The home hero panel now opens about.html by mouse or keyboard, while its two
+   visible action buttons go directly to about.html and projects.html.
+
+This approach preserves the newer merged JavaScript while restoring the missing V16 interaction
+without duplicate event listeners.
