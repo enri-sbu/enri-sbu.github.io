@@ -1,0 +1,24 @@
+ENRI merged v23 — UI refinements
+
+1. Homepage ticker
+- Replaced the visible “پژوهشکده در یک نگاه” ticker label with “اطلاعیه‌ها”.
+- Added a continuous, duplicated marquee track for seamless news-channel-style movement.
+- Announcement items link to local detail pages and pause on hover/focus.
+
+2. Homepage hero
+- Uses assets/enri-building.png (the original full, sharp entrance photograph), not the blurred/wide derived image.
+- The photo is cropped responsively with object-fit: cover and used behind the hero content.
+- Removed the separate blue content panel; title, description and action buttons now overlay the photograph.
+
+3. Floating contact
+- The “تماس با پژوهشکده” floating control fades/slides out after 180px of scroll and returns near the top.
+
+4. Responsive proportion and header
+- Rebalanced hero/card/banner sizes and section-heading type scale.
+- Preserved the main Persian institute title on mobile as long as it remains visually safe, while progressively hiding secondary header copy first.
+- Added narrow-screen adjustments down to 355px.
+
+5. Validation
+- app.js syntax checked with Node.
+- v23.css parsed without stylesheet parse errors.
+- All local href/src references checked; no missing local references found.

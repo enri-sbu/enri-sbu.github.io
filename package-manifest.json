@@ -1,0 +1,1075 @@
+{
+  "version": 23,
+  "entry_point": "index.html",
+  "guide": "README-FA.html",
+  "merge_notes": "MERGE-NOTES.txt",
+  "merge_report": "MERGE-REPORT.json",
+  "complete_original_domain": false,
+  "files": [
+    {
+      "path": ".nojekyll",
+      "bytes": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "404.html",
+      "bytes": 18947,
+      "sha256": "f1ec95860efa030765279625ef4f1d79db22f746e340c0fc538dcc9048b07746"
+    },
+    {
+      "path": "MERGE-NOTES.txt",
+      "bytes": 1125,
+      "sha256": "619acc8cd9b388918b8d978b246ea8e209d5f02c5a259e575391fd22cf098526"
+    },
+    {
+      "path": "MERGE-REPORT.json",
+      "bytes": 2218,
+      "sha256": "d72055d2fc6b6b91d521743e1a420dfff6a672b17991f60024569e03d20b0c96"
+    },
+    {
+      "path": "README-FA.html",
+      "bytes": 15702,
+      "sha256": "29f2abae99847fd97c7c88712ca6a11ea94252c1ba4279f863d14f7659736c57"
+    },
+    {
+      "path": "V16-JS-COMPARISON.txt",
+      "bytes": 1316,
+      "sha256": "2afa7c9bc90f08863b451d2e443fb8de35458f10087454954cec815e5137af9d"
+    },
+    {
+      "path": "V23-CHANGES.txt",
+      "bytes": 1290,
+      "sha256": "d1c08a9c81f79baa68bce6d8c97c70b09344ebdc2434bc239f918b5cfec86216"
+    },
+    {
+      "path": "about/index.html",
+      "bytes": 471,
+      "sha256": "a3ac556abe693c405d47680fa2ad37685fbb60829c179da130020c45d0967d46"
+    },
+    {
+      "path": "about.html",
+      "bytes": 21324,
+      "sha256": "4295f23bf84f65789dc6c6170babeb856f6e4e3f12e569a8b9ea870e112624af"
+    },
+    {
+      "path": "activities.html",
+      "bytes": 26131,
+      "sha256": "92aa9cf4b7b1c834db801a56830c12412c3face7ff92bf689b386e3bdb1f8e81"
+    },
+    {
+      "path": "activity-companies.html",
+      "bytes": 20035,
+      "sha256": "e0294ad907ae7d8d28161f8d49216c425e8563352117006338a6a01e88cb90d2"
+    },
+    {
+      "path": "activity-engineering.html",
+      "bytes": 19893,
+      "sha256": "390dcee62c7b459819bb2a5dc2b6b5c276543b9824fe83a990a70fce1d39b4cc"
+    },
+    {
+      "path": "activity-journal.html",
+      "bytes": 20813,
+      "sha256": "baf2e0567bea86fad6e96d0ea69293001cad75a526127dd7a9aaae15362e7dfd"
+    },
+    {
+      "path": "activity-market.html",
+      "bytes": 20162,
+      "sha256": "6236c352ec86701eaebc67e10f839b600feca5582ed0c309c7e136bfc572674f"
+    },
+    {
+      "path": "activity-renewable.html",
+      "bytes": 20153,
+      "sha256": "40aaeddc93d8536082dd4a31f94b1e7d44922f1607cfdf97bc062d896fb915a7"
+    },
+    {
+      "path": "activity-smart-cities.html",
+      "bytes": 20161,
+      "sha256": "054c6da83b229858fdda74a769bfdcabc26adeb269de24c08b08e6b0e4d5f4d4"
+    },
+    {
+      "path": "archive/index.html",
+      "bytes": 487,
+      "sha256": "d3442847bd52dd32783dce931b30a870845df6471acc84d3bc3f166b737d1f94"
+    },
+    {
+      "path": "archive-ann/index.html",
+      "bytes": 519,
+      "sha256": "51eced891fad83d2b0b8854866e129442e024e6edf9c43457c176b40fe05355c"
+    },
+    {
+      "path": "archive-ann.html",
+      "bytes": 19996,
+      "sha256": "70032f2e2ccd7b46808a22373192bb3e70b38adc937d32e642ea67191df78eee"
+    },
+    {
+      "path": "archive-event.html",
+      "bytes": 23964,
+      "sha256": "07f36de8bc01949d240a69a713fc7f90cc9b918b5f5cac483a2f3c7291809a7d"
+    },
+    {
+      "path": "archive.html",
+      "bytes": 25636,
+      "sha256": "558430e82dd604a89feb5af065c3372c1410fb3d03eda46445f82bfdddeeb288"
+    },
+    {
+      "path": "article/1327599/index.html",
+      "bytes": 527,
+      "sha256": "3566cdaff69d68e8c73d6f60d2efecfed2bedcca285a8472ac31e5a7b1145ca3"
+    },
+    {
+      "path": "article/1327615/index.html",
+      "bytes": 539,
+      "sha256": "6d5b1df077c01b75aabee4ca9fd7abbd49330e1111a95f6adaf2857d1b115210"
+    },
+    {
+      "path": "article/1335541/index.html",
+      "bytes": 551,
+      "sha256": "b78b284dfb741fe6a0b1f5cdc27a5c8d5a44aafb35e1ce91fd8c2d95fa959dab"
+    },
+    {
+      "path": "article/1338809/index.html",
+      "bytes": 515,
+      "sha256": "2320ee8e689feb375d2040c2510346cc609dd68e92270aa33aa85e240064354f"
+    },
+    {
+      "path": "article/1339009/index.html",
+      "bytes": 539,
+      "sha256": "541e8046d8a9f5f3c5f6e06831e939e62cfb8fa3078593dc5d47067a2710b97a"
+    },
+    {
+      "path": "article/1893143/index.html",
+      "bytes": 575,
+      "sha256": "8f1ddcab5055170a9331f5a6f0a02448e4f1dcc4ee8bbe0af13a52fe293ec31d"
+    },
+    {
+      "path": "asset-inventory.json",
+      "bytes": 7378,
+      "sha256": "88617161e3b202441d64560947df9f213edcf6f667b97d188ef188f571ff2d46"
+    },
+    {
+      "path": "assets/app.js",
+      "bytes": 15563,
+      "sha256": "250c6cfc65378854d842b9a170e9d788afa8ec96ff03f4c538f96a53199839bc"
+    },
+    {
+      "path": "assets/content.js",
+      "bytes": 156171,
+      "sha256": "5a03d16cbd39e750d220480c19bc1f706aa3c8803b7a10e6b47204b92677bca5"
+    },
+    {
+      "path": "assets/enri-building-hero.png",
+      "bytes": 997977,
+      "sha256": "223fef44cf6a29b837278cfcf0813ff273191bee968de5d786e13377354bad25"
+    },
+    {
+      "path": "assets/enri-building.png",
+      "bytes": 1349047,
+      "sha256": "2ac6e658e9f7fe191aebbae716109ae611d1d409e39767285475d854b08b00c1"
+    },
+    {
+      "path": "assets/enri-logo.png",
+      "bytes": 447860,
+      "sha256": "167ca6dc7240e9b50f762248b007de24bd9e9f27784f7cb8d4ba3debd8befa97"
+    },
+    {
+      "path": "assets/fonts/noto-naskh-arabic-variable.woff2",
+      "bytes": 94032,
+      "sha256": "2a10d33e1f7129ab2b6ec76666e82ac5b509fbcfa7b4a3a1289bff42d2d64cd7"
+    },
+    {
+      "path": "assets/fonts/vazirmatn-arabic-variable.woff2",
+      "bytes": 46308,
+      "sha256": "84a382e46c30fb4f73d0e3800c16d0af15888e2731e57fa5f93e2c29a2c6a957"
+    },
+    {
+      "path": "assets/institute/director-ameli.png",
+      "bytes": 440268,
+      "sha256": "eb46a0cc49ae521e84e4f02ca9efc70e2bc56f484570b6b65dc2b2ddddb35b7d"
+    },
+    {
+      "path": "assets/institute/history-library.jpeg",
+      "bytes": 96393,
+      "sha256": "79df1c118b77f4d8a568802261c053f7dcb7a5ddbf1612876ae7a7090ace85e4"
+    },
+    {
+      "path": "assets/institute/institute-structure.jpeg",
+      "bytes": 74244,
+      "sha256": "9c8ebaff2ed82b07a4ad7567dee933abe1b3bf394eae90da0d2a032786716f93"
+    },
+    {
+      "path": "assets/legacy-detail.js",
+      "bytes": 1159,
+      "sha256": "1183cf073559a1754e909fe244db1c92f47cc7108e22e25d45e31c1359df57cd"
+    },
+    {
+      "path": "assets/navigation.css",
+      "bytes": 9146,
+      "sha256": "3b900c688883744e74c8c4ee3d70c0a1f264fa830527165ff44f7b6655c81992"
+    },
+    {
+      "path": "assets/navigation.js",
+      "bytes": 2404,
+      "sha256": "242a66bf64e342ae118999a6e435f4357010447aecdd5b8420dead7001529579"
+    },
+    {
+      "path": "assets/news/dispatch.jpg",
+      "bytes": 245025,
+      "sha256": "e9d69236470c0a92406c3c02b3614c088e801fdadc3e2a628aee4d5a71127cba"
+    },
+    {
+      "path": "assets/news/economics.jpg",
+      "bytes": 116854,
+      "sha256": "dc6e80ef9ab1b2abfb3a6dc17c3e60bbdc6e0a51796514d56b4cb172bca837f7"
+    },
+    {
+      "path": "assets/news/education.jpg",
+      "bytes": 271793,
+      "sha256": "e2a4320ca8de3852548db9f1a1e6c3e4e609b2a08760e13952fb80bb967f739e"
+    },
+    {
+      "path": "assets/news/ev-germany.jpg",
+      "bytes": 91218,
+      "sha256": "328dfa68215018a3d053eafa659f82d5008d55c478e6d33dce8421c68cca612d"
+    },
+    {
+      "path": "assets/news/journal-banner.png",
+      "bytes": 420462,
+      "sha256": "30d57e05aebca71e00626c5987f6ba91979b03b5c7f4f5059708c63a5a7814fe"
+    },
+    {
+      "path": "assets/news/journal-cover-alt.jpg",
+      "bytes": 411176,
+      "sha256": "eb4c577b5241a8fe3d13b48b8293a978e445a28a565892a385fb24ec097f08d0"
+    },
+    {
+      "path": "assets/news/journal-cover.jpg",
+      "bytes": 498440,
+      "sha256": "a7cbcfc5cc7e793e338c625755025c71557563473c35cdd486d1ec8e89adc069"
+    },
+    {
+      "path": "assets/news/transport.jpg",
+      "bytes": 155783,
+      "sha256": "f0a5ac58baf6b02d002d2626033d8afaf1d6a7bf269752db64b781f520c5a1d2"
+    },
+    {
+      "path": "assets/news/workshop-poster.jpg",
+      "bytes": 182818,
+      "sha256": "556a374a3605fbee76563192c7b8e7608fe6a208b225e0048c8dcf5397687453"
+    },
+    {
+      "path": "assets/news/workshop-title.png",
+      "bytes": 14608,
+      "sha256": "a97404f7174a5c0744522218c1a4b2621277452765a0802f6b1506a44be06108"
+    },
+    {
+      "path": "assets/photos/electricity-market.webp",
+      "bytes": 104620,
+      "sha256": "2ccbeb107ba62e2b05b51511a72aa02185521b8320cc3693b92f4510335b2c4b"
+    },
+    {
+      "path": "assets/photos/electricity-workshop.webp",
+      "bytes": 87002,
+      "sha256": "74d5740b686f6c59c8e5348f3a8e29b4bf5df480529ed5e1308ba65788f88b13"
+    },
+    {
+      "path": "assets/photos/grid-protection.webp",
+      "bytes": 81454,
+      "sha256": "f6bdf9c8f45a2f85dffc2c82864ff78ccfa49907384f474a57015686c65afd46"
+    },
+    {
+      "path": "assets/photos/industry-collaboration.webp",
+      "bytes": 35162,
+      "sha256": "7a217c8469f67583838d9462f83cdf283baea615588d4c72d98efab4352bd9eb"
+    },
+    {
+      "path": "assets/photos/line-inspection.webp",
+      "bytes": 35320,
+      "sha256": "c6ff28bd1fb1821d2a13a32c80c9cb5b983abaf16a3911fbf9471e907efb3ab2"
+    },
+    {
+      "path": "assets/photos/phasor-monitoring.webp",
+      "bytes": 60314,
+      "sha256": "4e5b0627bec5f7281b313cead7b191b442f513eb3d9f615c35cd5d13a29fe3b5"
+    },
+    {
+      "path": "assets/photos/power-substation.webp",
+      "bytes": 273286,
+      "sha256": "f3c58345290d3daa9f2753d3dfe8760caefdf9abc22bafc7c6f0d25a23d46e68"
+    },
+    {
+      "path": "assets/photos/renewable-energy.webp",
+      "bytes": 261894,
+      "sha256": "9f73b2409a4bf8eceea447dc50ba62a88f690f76554c412976426a2dcb4a25a3"
+    },
+    {
+      "path": "assets/photos/research-lab.webp",
+      "bytes": 143618,
+      "sha256": "e6e312edabfa4bfd9a99e29bc9ebae6537a882b1074d976ba740dbe9b1d10ec1"
+    },
+    {
+      "path": "assets/photos/scientific-publication.webp",
+      "bytes": 150386,
+      "sha256": "5f950affbdfba2d312a840504302330b235013c85b1b9af79c7732cdde98b5c9"
+    },
+    {
+      "path": "assets/photos/smart-city.webp",
+      "bytes": 205496,
+      "sha256": "9db037c9af815d54a97bbfdd2d4bf69adfc468c039b8c29efea6df0570d188cd"
+    },
+    {
+      "path": "assets/photos/smart-grid-control.webp",
+      "bytes": 75950,
+      "sha256": "ce1946fcf44ffefc827df48954d9112e83a9ae4a1098acc8bf4126d1f6026639"
+    },
+    {
+      "path": "assets/photos/solar-substation.webp",
+      "bytes": 142540,
+      "sha256": "f362ce4b6814bf170a6f6da968317b4996801c3373a8f48d5072c42890671eb3"
+    },
+    {
+      "path": "assets/photos/specialist-training.webp",
+      "bytes": 77434,
+      "sha256": "82ccca4f1e16f8d904c8fb564e66691a2a4a82d0b1455b9b4cf28b2a6bed89da"
+    },
+    {
+      "path": "assets/photos/system-operation.webp",
+      "bytes": 42258,
+      "sha256": "16d67b4c2f04b018c20e875c20be21646ef92b58b5c6bd09b26e84bd4c0f0943"
+    },
+    {
+      "path": "assets/photos/transmission-lines.webp",
+      "bytes": 147176,
+      "sha256": "67f93b915965759b5111d0a57e92ebf56c01088b6f95de6c09a618d020bfb740"
+    },
+    {
+      "path": "assets/photos/turbine-generator.webp",
+      "bytes": 177608,
+      "sha256": "05d0905f01c5a0efed3474b4ae69a2eff505b63310bc13b28c46626b6dd21ee5"
+    },
+    {
+      "path": "assets/photos/wind-maintenance.webp",
+      "bytes": 46102,
+      "sha256": "e38284fd20e0064ee8575bc9e0d536c2dc81dcb1c3ca76bcc8a5a017eecfdfdb"
+    },
+    {
+      "path": "assets/refinements.css",
+      "bytes": 17705,
+      "sha256": "d9f2819d3a1df83de2f96ef5a1b40d29133025a58c1e3e80be8bae8faa8811a4"
+    },
+    {
+      "path": "assets/sbu-logo.svg",
+      "bytes": 7856,
+      "sha256": "cd054a27552d829bbe6551bafd9375930eaaf4e3eefb9e4921ee1ff0c3a2b37f"
+    },
+    {
+      "path": "assets/site.css",
+      "bytes": 58238,
+      "sha256": "8af734d90d84094f3ebdff382db3252f8e561848ffe42b54f8297a0cd0453d38"
+    },
+    {
+      "path": "assets/site.js",
+      "bytes": 30992,
+      "sha256": "df389227a3a6e58d08527b1c538cbca66e59fdf126fa6e69e15896ac10946573"
+    },
+    {
+      "path": "assets/source.css",
+      "bytes": 6000,
+      "sha256": "4a4b4f4c198cd43129eae3c06b651e3201a826d2dfd9e242696ce3d832e4a0be"
+    },
+    {
+      "path": "assets/source.js",
+      "bytes": 570,
+      "sha256": "cf25c5c22d75aba24883c15018f07c02c86c3cb82e243fbcf64746f428c677e5"
+    },
+    {
+      "path": "assets/v23.css",
+      "bytes": 9747,
+      "sha256": "4bf6c945a6f7923e6fdb3f4d3e92a7cac6bcd64427286ad80dd67e74f603001d"
+    },
+    {
+      "path": "boss/index.html",
+      "bytes": 463,
+      "sha256": "4bf01943845b5551101649e86d2b13433ee60092494d3cd277363436f7ffb8e1"
+    },
+    {
+      "path": "boss.html",
+      "bytes": 20181,
+      "sha256": "1a787bac845d4f87552b6d68639f56b87c214aad06bbaf84ce2fcbaa6cdfacd4"
+    },
+    {
+      "path": "c/portal/login/index.html",
+      "bytes": 513,
+      "sha256": "fefc8480ff0d3a171946b3f897baf6d4ee3049d68ae190064dd468a89dec886e"
+    },
+    {
+      "path": "chart/index.html",
+      "bytes": 471,
+      "sha256": "178ec73193598d9896315a90b2bae8f61a31e415989a657e1ffbf58ca362efcb"
+    },
+    {
+      "path": "chart.html",
+      "bytes": 31199,
+      "sha256": "e745ba0f3b370b169ff6cd8b28cf2b1a189bd22e1af7abc89dbd0e48950d3bcc"
+    },
+    {
+      "path": "collaboration.html",
+      "bytes": 23179,
+      "sha256": "107ec228e2fa29f4bd7b7c4a2bc8c328bc89dc314dc2643780ebdcd61b3aecea"
+    },
+    {
+      "path": "collector-test-report.json",
+      "bytes": 103,
+      "sha256": "2d76ec900649046a5859ebbdd101c6176ed7ea9d72b7a762386529c9222de4ed"
+    },
+    {
+      "path": "contact.html",
+      "bytes": 20111,
+      "sha256": "969d39386b251ac455c211607009082722b87a92052ef37361ab32b359e0ab05"
+    },
+    {
+      "path": "contact_college/index.html",
+      "bytes": 503,
+      "sha256": "bb829bb549d3812d3df0490084c57e3cf334fb7924edde12a494190435d1f855"
+    },
+    {
+      "path": "content.json",
+      "bytes": 471132,
+      "sha256": "17c27e08e252b81a570f30434eb7ae774a45de76dcaf9a0aa936e1b4f821a476"
+    },
+    {
+      "path": "detail.html",
+      "bytes": 21120,
+      "sha256": "fe515af60f28cada1bd81c468b74eadb329bea434e03c824d91ea280b8b24f37"
+    },
+    {
+      "path": "en-about.html",
+      "bytes": 18787,
+      "sha256": "6efea45a9fd96ed03d83613e88733402341472b4ed1eca595a0fc8d6f0993516"
+    },
+    {
+      "path": "en-activities.html",
+      "bytes": 22883,
+      "sha256": "25f7a4c19af56bddf6187a7e2731391de6008af6feaab9b027652299da380015"
+    },
+    {
+      "path": "en-activity-companies.html",
+      "bytes": 17793,
+      "sha256": "ffb0a8285a05bd6a320cbcdf0b208aae90a61a9d0a04c2a3c905b295e602780d"
+    },
+    {
+      "path": "en-activity-engineering.html",
+      "bytes": 17819,
+      "sha256": "dba93ef5ba4e7c9ab5e757af1a3e8bb6efc8afa9672dc358dfca5404fb76a0d5"
+    },
+    {
+      "path": "en-activity-journal.html",
+      "bytes": 18569,
+      "sha256": "78d09a909ae585a35a81b887f83111f5778f77f1edb4c74fc89308522763269b"
+    },
+    {
+      "path": "en-activity-market.html",
+      "bytes": 17856,
+      "sha256": "3235eaf28f6140901907819d7642288da762d5c6c90943719130578a787cd9c1"
+    },
+    {
+      "path": "en-activity-renewable.html",
+      "bytes": 17801,
+      "sha256": "cfd939dd99c1ff70291ab0fa4e3337b326f649ddf5cc58ce347402b0e4202729"
+    },
+    {
+      "path": "en-activity-smart-cities.html",
+      "bytes": 17837,
+      "sha256": "af6ee3674e9a69ddea57c7468a6f1598cac43bbd47095f6eee4896d808b0f44a"
+    },
+    {
+      "path": "en-archive-ann.html",
+      "bytes": 17776,
+      "sha256": "ad98de484e92a1b59ae7d23968798d4cfa641cb35f51561b267f1ec3a300ae28"
+    },
+    {
+      "path": "en-archive-event.html",
+      "bytes": 21306,
+      "sha256": "2615a71620ef1ebddb08bb1ce94d1a977340454a84dfa19abf5e4bec8ffdcd57"
+    },
+    {
+      "path": "en-archive.html",
+      "bytes": 19562,
+      "sha256": "132965d3ce734be0c5ebae540db0bb6babdc23e25144031cad4507c0d511232c"
+    },
+    {
+      "path": "en-boss.html",
+      "bytes": 18000,
+      "sha256": "5e3722d7b6e836ca86b1375c4df7c62d27812c32cc76fcd8b5eec76017e63c9b"
+    },
+    {
+      "path": "en-chart.html",
+      "bytes": 24883,
+      "sha256": "3af720f45cc8f988fc26e98b721d6bdf23be232bbfa620152d8d2e88e6246a09"
+    },
+    {
+      "path": "en-collaboration.html",
+      "bytes": 20375,
+      "sha256": "be70fb9629c54b3125b035ea3c9078e8851ccdb92569ece56a4e29b8be714a6f"
+    },
+    {
+      "path": "en-contact.html",
+      "bytes": 17729,
+      "sha256": "f403ed62f40a713b3407591d3dc790daf55be1b4e53113b770ce9077b1dcd233"
+    },
+    {
+      "path": "en-faq.html",
+      "bytes": 18297,
+      "sha256": "197e0d74ac4836aa2ff229c094532b7105f81c4c93f1386a77cb1b2e42af505c"
+    },
+    {
+      "path": "en-field-ai.html",
+      "bytes": 18115,
+      "sha256": "9508d4d86ae0f8b662ade6817d44d0a270e024ca017fbdeffa948d14a5bd4b14"
+    },
+    {
+      "path": "en-field-market.html",
+      "bytes": 18135,
+      "sha256": "135815687ef0a5a10f18cbedfa22b482db64286bf1a8e09d7dcd950945adfa9b"
+    },
+    {
+      "path": "en-field-operation.html",
+      "bytes": 18314,
+      "sha256": "90c51ace234777d658a29f58c549d231ecbe8c0fc741bab935c8a455266261fd"
+    },
+    {
+      "path": "en-field-protection.html",
+      "bytes": 18263,
+      "sha256": "691cbb9311502354f45d59d0ceccd02cf49985dd1dcf07c4a9a6fa52a54833bf"
+    },
+    {
+      "path": "en-field-renewable.html",
+      "bytes": 18137,
+      "sha256": "76b3f69331b24edd6e4e2482be87c26a67c2dd5b3d2478bfb0878180f5a4f7ce"
+    },
+    {
+      "path": "en-fields.html",
+      "bytes": 20835,
+      "sha256": "e044002686d8a9cda4e6cb2fb099d2da003c472a8d256cea2e65f1df97efd6d5"
+    },
+    {
+      "path": "en-goals.html",
+      "bytes": 18844,
+      "sha256": "93d3a09dac6369407ea19b147561a1b9aae363afc503714ab799ac253c400035"
+    },
+    {
+      "path": "en-history.html",
+      "bytes": 18442,
+      "sha256": "ec9469935222414fa61d521720312d1ae72ff97ebebe8f048c4273cbba656b49"
+    },
+    {
+      "path": "en-institute-contact.html",
+      "bytes": 17541,
+      "sha256": "6665b7edd877a6b2524b2142542c5f36be7fb362ab28c6b7ee1c80986afeb56a"
+    },
+    {
+      "path": "en-login.html",
+      "bytes": 16860,
+      "sha256": "0afa1ff9175bb237cf4a903a186e4ce5f9155dfc5fe48a179898be30a88d7ad1"
+    },
+    {
+      "path": "en-news-dispatch.html",
+      "bytes": 17900,
+      "sha256": "e25e347a60634bdd889e6b0e0060abefaee6e50baf40ec5a800eefd238787719"
+    },
+    {
+      "path": "en-news-economics.html",
+      "bytes": 18017,
+      "sha256": "28f892c6d77ac4b99cd706bc843feae626a76b3cd3487f87c995edd99458e7ad"
+    },
+    {
+      "path": "en-news-education.html",
+      "bytes": 17959,
+      "sha256": "7831c2db6398a5d4da88f28a2537b12a962644e2b7f0db15586d4185515fd3e7"
+    },
+    {
+      "path": "en-news-ev-germany.html",
+      "bytes": 17922,
+      "sha256": "d66db9c89a55d297df8bc591ec18075c399a04716c5c281c366e7cc81c06ffbe"
+    },
+    {
+      "path": "en-news-ev-sustainable.html",
+      "bytes": 17905,
+      "sha256": "1ff49f15573ff3ce4fa8b36281162792d7fea2cc8cfbd3a85a8f739185435bc4"
+    },
+    {
+      "path": "en-news-transport.html",
+      "bytes": 17780,
+      "sha256": "540c9f704137ef7cbe01aba5d8027b70d4591f6a6831d86a779786deb392f84e"
+    },
+    {
+      "path": "en-news-workshop.html",
+      "bytes": 17729,
+      "sha256": "15c920623aa1e50d301743d7466a272bd3d3c37863510970800e91990b5daa8a"
+    },
+    {
+      "path": "en-newsletter.html",
+      "bytes": 16801,
+      "sha256": "945fa2d342ead4df3029c71709546c679d327b1d15042d3b7833e0d1a4a690c0"
+    },
+    {
+      "path": "en-objectives.html",
+      "bytes": 18439,
+      "sha256": "4c2caf85e78b5ce962fa3ee7475c9147d321de06e744811310dcb9d87fb10ab0"
+    },
+    {
+      "path": "en-people.html",
+      "bytes": 18815,
+      "sha256": "7487ce41f64ac4b54882fa710af56e89904d53be086ce0e78fbb8392de88da34"
+    },
+    {
+      "path": "en-project-distributed-protection.html",
+      "bytes": 18055,
+      "sha256": "488f78a41e1c7d46b5e349b031a6b27b0b3baa207b3dd1a227a4177b607898f6"
+    },
+    {
+      "path": "en-project-frequency-control.html",
+      "bytes": 18496,
+      "sha256": "9fd9d9e839fbd9cc0ea66c5fa2447b871dc393cb21b2088301a0eb8b39d4ceea"
+    },
+    {
+      "path": "en-project-losses.html",
+      "bytes": 17975,
+      "sha256": "07d8020a0459cc98ea5e0056b373a1b16579947c6c7d4e8e35da7c8e5347c1b0"
+    },
+    {
+      "path": "en-project-low-frequency.html",
+      "bytes": 18436,
+      "sha256": "670b72349bb284de077d0739a5392266445279faf4f74171963a0d7ecdebfea3"
+    },
+    {
+      "path": "en-project-phasor.html",
+      "bytes": 18672,
+      "sha256": "c3e768cb2aa548384223252f066f1f74f895ea58808de0891fd0496dde632716"
+    },
+    {
+      "path": "en-project-relay.html",
+      "bytes": 17914,
+      "sha256": "e1c825233a83603b38e810b6f7ce24010df9cba59a7862cc4a6b4158c1c45009"
+    },
+    {
+      "path": "en-project-training.html",
+      "bytes": 19643,
+      "sha256": "b37a005c6f85126f7ce4c42044f6ae68c88f7a0217e4c3c5717f5583516d4bfb"
+    },
+    {
+      "path": "en-project-wind.html",
+      "bytes": 17887,
+      "sha256": "5ebe9d84a45d7301bca96148b505d12ebce1a058b3da6dafaa6382c1ab734221"
+    },
+    {
+      "path": "en-projects.html",
+      "bytes": 23286,
+      "sha256": "c9b9d785301a004541e66faf81b2d1aa4f33a2e682e105b774c239b057183a01"
+    },
+    {
+      "path": "en-quick-links.html",
+      "bytes": 17723,
+      "sha256": "44e2d8e4a99f2456132c2763d4848ed114b165095627cbaf4b4eb40c6810455d"
+    },
+    {
+      "path": "en-research-groups.html",
+      "bytes": 20264,
+      "sha256": "cc7a7f7161343fd45b4a320307cbbfce53b271807935ee16fb7b88935359deb6"
+    },
+    {
+      "path": "en-research.html",
+      "bytes": 17893,
+      "sha256": "b1eaad84070a2f0e9fc70852ae1d2553430a53707bd7b33b435fc16c6fa05e0c"
+    },
+    {
+      "path": "en-resources.html",
+      "bytes": 17388,
+      "sha256": "a756a1eaf36b5d1ef647e4338a9e23f4a42fb3ca2b2339d6e209d678e814d6d6"
+    },
+    {
+      "path": "en-service-engineering.html",
+      "bytes": 17867,
+      "sha256": "929cec1ac7cb93c3f9a0fa686c3965c725fe7941f59a76e3a00e9b2f6232a588"
+    },
+    {
+      "path": "en-service-research.html",
+      "bytes": 17754,
+      "sha256": "1f8f9740641cff858b94ff2a9cf7b43ead5957b06112cef457ed2a910bbac2c1"
+    },
+    {
+      "path": "en-service-thesis.html",
+      "bytes": 17804,
+      "sha256": "459dbed3ae6302776e131bb134a0f56151f992e56a6d894d1aa2907d3388eda5"
+    },
+    {
+      "path": "en-service-training.html",
+      "bytes": 17779,
+      "sha256": "3d8521cd175ccbb5d2b124c7f3c6a3825e4cc29610286e6b1c530c3899293f85"
+    },
+    {
+      "path": "en-service-transfer.html",
+      "bytes": 17916,
+      "sha256": "bf31850a096bdcba3a3bff4266498880e28d7f351c5d43db779e178be4352dcf"
+    },
+    {
+      "path": "en-sitemap.html",
+      "bytes": 20976,
+      "sha256": "d8548d7b901dc8f293ab2e64da08bd8c41812eb5fcf682ba175ab0bf018aeeb1"
+    },
+    {
+      "path": "en-source-images.html",
+      "bytes": 24458,
+      "sha256": "5031d290bfd229bc1b6f76417022c7ff2c67e613045eeb4ff6d2e762744eab6b"
+    },
+    {
+      "path": "en-source-pages.html",
+      "bytes": 19272,
+      "sha256": "9ca94c9c04dc4d6413f1455a0663cca366dd629d8103e45f38addda49710b55d"
+    },
+    {
+      "path": "en.html",
+      "bytes": 53515,
+      "sha256": "be1121ef3ac2f2bb55bfd4a44f5e6fe43446ec2a2064fa651f5a704d355e9fee"
+    },
+    {
+      "path": "fa/w/-/index.html",
+      "bytes": 557,
+      "sha256": "080d5dde9b5b7e5447aca80d95c5d6960a09ebd0bf489a33387b576fd0da934e"
+    },
+    {
+      "path": "fa/w/-2/index.html",
+      "bytes": 547,
+      "sha256": "e9d00dc8f971b92f762c9c8082ecbdefb630e163a7b2f7301999d22acc5d5450"
+    },
+    {
+      "path": "fa/w/-4/index.html",
+      "bytes": 553,
+      "sha256": "860b5473f0a4ac03d1f32f5c325b547e350bea19f93658c675dcf513c37cd84a"
+    },
+    {
+      "path": "fa/w/-5/index.html",
+      "bytes": 553,
+      "sha256": "4e9814e02845d1bf689091da844030b5497504701844925a86368147eb9d241a"
+    },
+    {
+      "path": "fa/w/-6/index.html",
+      "bytes": 547,
+      "sha256": "8cc79fa33d16f9a1e95809a2732f039c21b9af8a77657a7f34138b092dcd38a9"
+    },
+    {
+      "path": "fa/w/-8/index.html",
+      "bytes": 553,
+      "sha256": "9c72901db3fa195b33395e05ff53e724d01ad21c19048775822eec645197bfe4"
+    },
+    {
+      "path": "fa/w/-9-10/index.html",
+      "bytes": 589,
+      "sha256": "180f93a85a1c63124255f1889cfcc526200fbe391030c3e0d4ed0abea32d64ea"
+    },
+    {
+      "path": "faq.html",
+      "bytes": 20897,
+      "sha256": "ed0e563ec47cad8e28b62796b536b8b9ed297207ff58f3b5eb588090c47c5401"
+    },
+    {
+      "path": "field-ai.html",
+      "bytes": 20578,
+      "sha256": "9b65ee170fdf5adb3dd29da2737f422ef7a588916b8f480672e4e495abf16454"
+    },
+    {
+      "path": "field-market.html",
+      "bytes": 20588,
+      "sha256": "a29be39b1e0a35e4ff01132b889451d36b375366817af2adf7eaaa7c921bbd8c"
+    },
+    {
+      "path": "field-operation.html",
+      "bytes": 21057,
+      "sha256": "4cacba0cd76fda779afcfab48d9035c5471cea87ff0d1b10bc5d2dc5b840ae77"
+    },
+    {
+      "path": "field-protection.html",
+      "bytes": 20676,
+      "sha256": "1419794c165b3bfdbbe6f152b71be1d844905bbb5d3cedd0d0c21572d51119bb"
+    },
+    {
+      "path": "field-renewable.html",
+      "bytes": 20722,
+      "sha256": "f0f4cfa721d5fd65b870819dda603654b86fbb05f20b3e400afe7fe2d65d39bc"
+    },
+    {
+      "path": "fields.html",
+      "bytes": 23587,
+      "sha256": "9a59aef0adba3440decc424d1dc5df0de26c244023f5753f97e12d4c715ec67b"
+    },
+    {
+      "path": "goals/index.html",
+      "bytes": 471,
+      "sha256": "057a7e9b842fae45dad6fd1b3b0a129b88ba62f84673bc15ec17e272c0bfcb75"
+    },
+    {
+      "path": "goals.html",
+      "bytes": 22192,
+      "sha256": "b51ac8986e670178ebc573e5d1949ced63ffdb6af347aa95598c25633b11650d"
+    },
+    {
+      "path": "groh_pajh/index.html",
+      "bytes": 539,
+      "sha256": "6c5443fd8ac7f211b69670cc64b7ac09b33d38e83b72a3f27eeb0d37f3ca0e90"
+    },
+    {
+      "path": "history/index.html",
+      "bytes": 487,
+      "sha256": "e904a29b4ade21b3d89367780a86253c2f903363a57da4b29b73fd716a4dab10"
+    },
+    {
+      "path": "history.html",
+      "bytes": 21042,
+      "sha256": "b8af21ce65bbcbfab2b36c0ddd31c9e9fb862b36c01380d6c44791d5f623665d"
+    },
+    {
+      "path": "index.html",
+      "bytes": 65926,
+      "sha256": "56f5a68397902f6bf6317115659a93ab68b4050902e034a96f955058ea5548b4"
+    },
+    {
+      "path": "institute-contact.html",
+      "bytes": 19864,
+      "sha256": "4b609a1586a7b669c8c8433b15a42cbe6ce0c8707e0297148cf3a02679ede14a"
+    },
+    {
+      "path": "link-inventory.json",
+      "bytes": 118526,
+      "sha256": "21a28815f7e892e2dcaf6470f6c547ad6656bc3ef710fb11431cbd101eef5438"
+    },
+    {
+      "path": "login.html",
+      "bytes": 19080,
+      "sha256": "f0746af935073bdf9e39a4bbc052fa4c637e926c7767044dbd6603101cce997b"
+    },
+    {
+      "path": "menu-content-source.json",
+      "bytes": 30531,
+      "sha256": "ed1d0a63a0ba9c26b0bebbc4f518997aace9925a5937a49f73167149b75a33a0"
+    },
+    {
+      "path": "navigation-test-report.json",
+      "bytes": 143,
+      "sha256": "c4cdc98b7aecbc49538ecef612873eb78bf64ed89e87877beebddb0c21d3f0a2"
+    },
+    {
+      "path": "news-dispatch.html",
+      "bytes": 20191,
+      "sha256": "0911e089db4eec7cde8a10ffc00ff54009ba757bbb01fc01841807874a586130"
+    },
+    {
+      "path": "news-economics.html",
+      "bytes": 20287,
+      "sha256": "f6571a5ff80c211bc73dea20d0f1f77c42cd8282d8abd62ecb054d9ea88a658f"
+    },
+    {
+      "path": "news-education.html",
+      "bytes": 21942,
+      "sha256": "750f175680abb206ea925c974e5c41362524afae776efef48202a0f5bcd502ae"
+    },
+    {
+      "path": "news-ev-germany.html",
+      "bytes": 20301,
+      "sha256": "7ecb9f724d1fe9409a18baab037ac75af5b67fb69e392bddd0ce479f485a03f3"
+    },
+    {
+      "path": "news-ev-sustainable.html",
+      "bytes": 20256,
+      "sha256": "e35e24f4b3ba9fbcb3c3b5fa5ce52a4f61a446a5168cd83e24b3c9257e2d7133"
+    },
+    {
+      "path": "news-journal-call.html",
+      "bytes": 20456,
+      "sha256": "cbce598078a69a95a374cf5c44d0b90fd96876677c90fa0100f0e245f2f663ef"
+    },
+    {
+      "path": "news-journal.html",
+      "bytes": 20269,
+      "sha256": "3a3a24b9e7b37980aff3f427e657cd217425a4af59a1d505faccdbd61cd26146"
+    },
+    {
+      "path": "news-transport.html",
+      "bytes": 20302,
+      "sha256": "83629ba154ac17437dd19dca8773c75df838f44f6799dde88dfef1ae68578af6"
+    },
+    {
+      "path": "news-workshop.html",
+      "bytes": 20433,
+      "sha256": "b12f726a4d60584623876671966686999736dd27739a011c9d49b31144e1330f"
+    },
+    {
+      "path": "newsletter.html",
+      "bytes": 19014,
+      "sha256": "76be2feaad61c5de4a2bc135b23fee697e327bc8fa8b565e7935d55ca615b499"
+    },
+    {
+      "path": "objectives.html",
+      "bytes": 20892,
+      "sha256": "bb6450c54492e644d2e27c8443e8553bed9559eec15ec96e882c4ce15756b461"
+    },
+    {
+      "path": "people.html",
+      "bytes": 21359,
+      "sha256": "07c337059f212da07b21132baf42e8319784b900f0c66906b4ecb73b2b8ee186"
+    },
+    {
+      "path": "project-distributed-protection.html",
+      "bytes": 20404,
+      "sha256": "d196681d25114c8da466b2449b8288c8f44d715166e6d5aa7603e850b2ca21c5"
+    },
+    {
+      "path": "project-frequency-control.html",
+      "bytes": 21985,
+      "sha256": "46356f43ba5b2137807984130a0fbcdea27a94f44a5437bc0f2fd6444b931891"
+    },
+    {
+      "path": "project-losses.html",
+      "bytes": 20470,
+      "sha256": "7b630c6ba4493f4cea01f49b2a66dab373182fadbcf1542a2d7ec7479234d25c"
+    },
+    {
+      "path": "project-low-frequency.html",
+      "bytes": 21438,
+      "sha256": "1ce864d4c183eb5ef2b2c5a8cf21e6c5ee01fd76bb3f8ed7fdfa44b2cd9bde36"
+    },
+    {
+      "path": "project-phasor.html",
+      "bytes": 22323,
+      "sha256": "f8ccad167daa516b6370fe3224612f4b367127fc42241d47041810023d3a75b7"
+    },
+    {
+      "path": "project-relay.html",
+      "bytes": 20075,
+      "sha256": "7df7d4b8987ffa68f7de4e82e250299ea5c012ef34405e4ad87ff483f07f1580"
+    },
+    {
+      "path": "project-training.html",
+      "bytes": 23401,
+      "sha256": "d8e7a100b711fd3aac11efd29d93db81d80879c605bd455b6a7d635342ae33f2"
+    },
+    {
+      "path": "project-wind.html",
+      "bytes": 20464,
+      "sha256": "1fbfc9ec13985a905698215093edce90588985e53d29fe061bcc83e4e6b46772"
+    },
+    {
+      "path": "projects.html",
+      "bytes": 28186,
+      "sha256": "ca448e552e04ec093f9c44e2c0ab8c4c2a912fe89e8e07f98fa3b3a67b628c25"
+    },
+    {
+      "path": "quick-links.html",
+      "bytes": 20038,
+      "sha256": "d92f769a3461702439a067df60029dd4eb9b14eb888797d89466469a251ef920"
+    },
+    {
+      "path": "research-groups.html",
+      "bytes": 23657,
+      "sha256": "86868e0e230f0d656e4a3fd0e97ac80d2b8e7eb16a9d89add37077be30fa613e"
+    },
+    {
+      "path": "research.html",
+      "bytes": 20063,
+      "sha256": "e7e6d435c42c22931be17d40ca8b76776c165b82076ae82631757d56759b47d7"
+    },
+    {
+      "path": "resources.html",
+      "bytes": 19561,
+      "sha256": "fa18e720080d1d2598d61fb920bb26db69eb2816ccfc202a88a397fb5baeec8f"
+    },
+    {
+      "path": "script-test-report.json",
+      "bytes": 120,
+      "sha256": "878f1230c9b281146da4862b8e0c701cd33d48a44fc4b846dd2fb59e18898fe4"
+    },
+    {
+      "path": "service-engineering.html",
+      "bytes": 20015,
+      "sha256": "749001199486b1d8139f82d4e1f931a6d6835b5183bb2f423da6cb385b381304"
+    },
+    {
+      "path": "service-research.html",
+      "bytes": 20025,
+      "sha256": "e48b602c0ca98a1964b95c1bb3a5d7f1590047f6e028fe9e2e0ae9e0f9e3fea4"
+    },
+    {
+      "path": "service-thesis.html",
+      "bytes": 20099,
+      "sha256": "294b1fee54c0fa74a50bcbe6a36e58b24d02e0ddef05df303226471b62499b89"
+    },
+    {
+      "path": "service-training.html",
+      "bytes": 19920,
+      "sha256": "4327cefec914ecdee68cad9b37f7b706738d720e1d6378482d6b585fd6827a42"
+    },
+    {
+      "path": "service-transfer.html",
+      "bytes": 20203,
+      "sha256": "b3740da49a5397e7c1a8abeb0c9f409fe6d6c59cbab61f5dbb6a336f4d21219d"
+    },
+    {
+      "path": "sitemap.html",
+      "bytes": 24618,
+      "sha256": "6d11974a04454ef54c694d3d12978ff24056440356436d50cf112d4a72bc50f8"
+    },
+    {
+      "path": "source-documents/menu-content.docx",
+      "bytes": 4298682,
+      "sha256": "2a90d06c585e1941346ef57ec8812f9ba50e31697a794683445795e2080f9c90"
+    },
+    {
+      "path": "source-fetch-report.json",
+      "bytes": 192,
+      "sha256": "fca7c1da5484769076e059eb3249d96aa89250dc349aa59e44cdb0e0c3edf3bd"
+    },
+    {
+      "path": "source-image-inventory.json",
+      "bytes": 3243,
+      "sha256": "f9c5314c0cdaa1b207dc03b4273ffb7086a62ac916a8b05fa941157f53711a99"
+    },
+    {
+      "path": "source-images.html",
+      "bytes": 27457,
+      "sha256": "e57b3ce1e1f147b7e4dc2b1c367defe55556dd55e452652127b60721bab0a7ca"
+    },
+    {
+      "path": "source-pages.html",
+      "bytes": 21691,
+      "sha256": "5a13fc2503667ff9d5b1aa9ced19bd220a186ffe3d84424bedf85cab52725181"
+    },
+    {
+      "path": "source-pdf-content.json",
+      "bytes": 10602,
+      "sha256": "2f70eabb0498b96cafe86bfcb8e4fc732991e950fc171463960f3f46d76bc7c2"
+    },
+    {
+      "path": "source-url-map.json",
+      "bytes": 6520,
+      "sha256": "41d12e1859682df1ab859ccdee2147522a23d99c0bcfb565418f73c8bd69dac9"
+    },
+    {
+      "path": "tools/collect-enri.py",
+      "bytes": 10457,
+      "sha256": "a33c0183ff77daff2308b3c68801cff9abca26bc71a496c9c8cffce0ab00200f"
+    },
+    {
+      "path": "validation-report.json",
+      "bytes": 870,
+      "sha256": "9bb629f6abe1855c7a5a460d4cf2e55ac128c9bc2c7f926eb4fc83a27d580944"
+    },
+    {
+      "path": "web/sbu/newsletter/index.html",
+      "bytes": 551,
+      "sha256": "0c0799ebbf0fbe586b180b9bc2bf9ae9fdf0a358f14906ce7dac61b34793deb9"
+    },
+    {
+      "path": "پژوهشی/index.html",
+      "bytes": 503,
+      "sha256": "0d56e38305972367c9730ab80a47dea34129352a66fdd635e87cdbe04b3d2282"
+    }
+  ]
+}
